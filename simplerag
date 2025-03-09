@@ -104,6 +104,33 @@
         <mxCell id="tGv6qruzHXjHzjjMkBwU-28" value="LLM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="639" y="472" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tGv6qruzHXjHzjjMkBwU-29" value="Components" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="510" width="670" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tGv6qruzHXjHzjjMkBwU-30" value="MindfulAI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tGv6qruzHXjHzjjMkBwU-29">
+          <mxGeometry x="40" y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tGv6qruzHXjHzjjMkBwU-31" value="RAG Pipeline" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tGv6qruzHXjHzjjMkBwU-29">
+          <mxGeometry x="40" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tGv6qruzHXjHzjjMkBwU-32" value="Security" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tGv6qruzHXjHzjjMkBwU-29">
+          <mxGeometry x="190" y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tGv6qruzHXjHzjjMkBwU-33" value="Auth &amp;amp; Authz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tGv6qruzHXjHzjjMkBwU-29">
+          <mxGeometry x="190" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tGv6qruzHXjHzjjMkBwU-38" value="Caching" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tGv6qruzHXjHzjjMkBwU-29">
+          <mxGeometry x="330" y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tGv6qruzHXjHzjjMkBwU-39" value="Knowledge Store" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tGv6qruzHXjHzjjMkBwU-29">
+          <mxGeometry x="330" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tGv6qruzHXjHzjjMkBwU-40" value="Model Evaluation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tGv6qruzHXjHzjjMkBwU-29">
+          <mxGeometry x="480" y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tGv6qruzHXjHzjjMkBwU-41" value="Prompt Store" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tGv6qruzHXjHzjjMkBwU-29">
+          <mxGeometry x="480" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
